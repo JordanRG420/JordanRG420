@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 CONFIG
 FULL_NAME: Jordan Ramírez Gallego
