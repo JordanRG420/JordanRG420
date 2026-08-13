@@ -2,6 +2,6 @@
 
 <!--
 CONFIG
-FULL NAME: Jordan Ramírez Gallego
-GITHUB USER: JordanRG420
+FULL_NAME: Jordan Ramírez Gallego
+GITHUB_USER: JordanRG420
 -->
